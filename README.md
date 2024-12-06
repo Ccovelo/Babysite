@@ -3,9 +3,9 @@ El propósito de "BabySite" es brindar una plataforma para el cuidado infantil, 
 a)	Registrar y gestionar datos sobre niños (edad, hábitos, alergias, actividades).
 b)	Acceder a recursos externos como consejos de crianza desde internet.
 c)	Consultar datos locales, como horarios personalizados o notas guardadas en una base de datos.
-Interfaz Mínima (Descripción)
-•	Un Scaffold como base: Será el contenedor principal para la estructura.
-•	Un AppBar: Mostrará un título relevante, como "BabySite Dashboard".
+Interfaz Mínima 
+•	Un Scaffold como base: contenedor principal para la estructura.
+•	Un AppBar: el título/nombre de la aplicacion que es "BabySite Dashboard".
 •	Texto descriptivo: Explicará brevemente una funcionalidad, como "Lista de actividades de los niños".
 •	Imagen: Un ícono representativo o una ilustración relacionada con el tema de cuidado infantil.
 •	Lista de elementos simulando datos: Por ejemplo, una lista de nombres de niños o actividades.
